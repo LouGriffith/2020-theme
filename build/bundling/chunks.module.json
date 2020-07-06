@@ -1,0 +1,81 @@
+{
+  "errors": [],
+  "warnings": [],
+  "version": "4.43.0",
+  "hash": "191e09671fbb3454c3f9",
+  "publicPath": "/static/",
+  "outputPath": "/Users/griffithl/Sites/2020/2020-theme/build/static",
+  "assetsByChunkName": {
+    "2020-theme": "2020-theme.module.js",
+    "list": "list.module.js"
+  },
+  "assets": [
+    {
+      "name": "2020-theme.module.js",
+      "size": 5043010,
+      "chunks": [
+        "2020-theme"
+      ],
+      "chunkNames": [
+        "2020-theme"
+      ],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "list.module.js",
+      "size": 47733,
+      "chunks": [
+        "list"
+      ],
+      "chunkNames": [
+        "list"
+      ],
+      "info": {},
+      "emitted": false
+    }
+  ],
+  "filteredAssets": 0,
+  "entrypoints": {
+    "2020-theme": {
+      "chunks": [
+        "2020-theme"
+      ],
+      "assets": [
+        "2020-theme.module.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    }
+  },
+  "namedChunkGroups": {
+    "2020-theme": {
+      "chunks": [
+        "2020-theme"
+      ],
+      "assets": [
+        "2020-theme.module.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    },
+    "list": {
+      "chunks": [
+        "list"
+      ],
+      "assets": [
+        "list.module.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    }
+  },
+  "logging": {
+    "webpack.buildChunkGraph.visitModules": {
+      "entries": [],
+      "filteredEntries": 5,
+      "debug": false
+    }
+  },
+  "children": []
+}
